@@ -1,9 +1,25 @@
 body {
-    background-color: black;
+    	background-color: black;
 	margin: 10;
 } 
 p {
 	font-family: Palatino, 'Palatino Linotype', serif;
-	font-size: 11;
+	font-size: 11px;
 	color: #2E2E2E;
+}
+.bigWin {
+	padding: 200px;
+	margin: 20px;
+	
+}
+#footer {
+	font-size: 0.75rem;
+
+}
+table, th, td {
+	border: 1px solid black;
+	width: 100%;
+	horizontal-align: center;
+	vertical-align: middle;
+	
 }
